@@ -1,0 +1,43 @@
+html{
+    font-family: 'Public Sans', sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;      
+}
+
+.cabecalho{
+    display: flex; 
+}
+
+.logo{
+   padding-top: 45px;
+   padding-left: 44.41px;
+}
+
+.titulo{
+    font-weight: 800;
+    size: 20px;  
+    padding-top: 55px;
+    padding-left: 5.59px; 
+}
+
+.topo{   
+    display: flex;
+    padding-top: 59px;  
+}
+
+.menu{
+    display: flex;
+    list-style-type: none; 
+    padding-left: 694px;
+    gap: 30px;
+}
+
+
+
+
+
+
+
